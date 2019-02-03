@@ -2,7 +2,7 @@
 
 This website gives you a little preview of what kind of work we do for CS-HU250.
 
-![image of a christmas tree](/downloads/christmastree.png)
+![image of a christmas tree](http://i63.tinypic.com/rl994z.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
