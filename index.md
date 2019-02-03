@@ -5,7 +5,7 @@ This website gives you a brief description of CS-HU250.
 CS-HU250 is a five week course offered at Boise State University. This course is an introduction to version control. 
 This is a five week course teaching us a day to day usage of software version control. For more details about this course or other CS Hatchery Courses click the link that will direct you to the CS-HU course catalog [Boise State Course Catalog] (https://registrar.boisestate.edu/undergraduate/course-catalog/cs-hu/)
 
-[Google link](https://googlee.com/)
+[Google link](https://google.com/)
 
 ![image of Pro Git Second Edition](https://imgur.com/ZRGmxTY)
 
