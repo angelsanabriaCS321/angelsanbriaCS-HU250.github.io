@@ -8,6 +8,8 @@ This is a five week course teaching us a day to day usage of software version co
 [Google link](https://google.com/)
 
 ![image of Pro Git Second Edition](http://i64.tinypic.com/2vsp9j6.jpg)
+We read Pro Git Second Edition by Scott Chacon and Ben Straub
+Link to the book is here [link](https://git-scm.com/book/en/v2)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
