@@ -1,6 +1,8 @@
 ## Welcome to Angel Sanabria's CS-HU250 Webpage
 
-This website gives you a little preview of what kind of work we do for CS-HU250.
+This website gives you a brief description of CS-HU250.
+
+**We use the** 
 
 ![image of a christmas tree](http://i63.tinypic.com/rl994z.png)
 
