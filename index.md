@@ -7,7 +7,7 @@ This is a five week course teaching us a day to day usage of software version co
 
 [Google link](https://google.com/)
 
-![image of Pro Git Second Edition](https://imgur.com/ZRGmxTY)
+![image of Pro Git Second Edition](https://imgur.com/oDXeSut)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
